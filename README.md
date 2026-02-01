@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```
-python optimize.py input.md output.txt
+python optimize.py
 ```
 
 ### License
